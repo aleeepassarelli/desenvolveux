@@ -11,23 +11,25 @@ Tokens universais de design para o **Context Engineering Framework UX (CEF-UX)**
 
 ## 🚀 Uso
 
-pnpm add @cef-ux/design-tokens
+pnpm add @desenvolveux/design-tokens
 Em TypeScript
+---
 ts
 Copiar código
 import { designTokens } from "@cef-ux/design-tokens";
-
+---
 console.log(designTokens.color.primary[500]); // "#0284C7"
 Em Tailwind
 No tailwind.config.js:
-
+---
 js
 Copiar código
-import tokens from "@cef-ux/design-tokens/tokens.json";
+import tokens from "@desenvolveux/design-tokens/tokens.json";
+---
 🧭 Filosofia
 Cada token é uma unidade mínima de coerência visual e semântica.
 Assim como na engenharia de contexto, a clareza nasce da densidade controlada.
-
+---
 Licença MIT © 2025 — CEF UX Team
 
 yaml
