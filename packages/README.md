@@ -1,4 +1,4 @@
-# 🎨 @cef-ux/design-tokens
+# 🎨 @desenvolveux/design-tokens
 
 Tokens universais de design para o **Context Engineering Framework UX (CEF-UX)**.
 
